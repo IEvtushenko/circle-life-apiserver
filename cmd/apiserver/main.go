@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"github.com/BurntSushi/toml"
-	"gotestsome/api/internal/app/apiserver"
+	"github.com/IEvtushenko/circle-life-apiserver/internal/app/apiserver"
 	"log"
 )
 
